@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772623289782",
+    "project_id": "medigo-da15a",
+    "storage_bucket": "medigo-da15a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772623289782:android:8c83027f45d4594607c517",
+        "android_client_info": {
+          "package_name": "com.example.medigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZKSgaLko6pqws6_QtXzaLONgwl1fWGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772623289782:android:726a4dab01b0ec8e07c517",
+        "android_client_info": {
+          "package_name": "com.mycompany.medigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZKSgaLko6pqws6_QtXzaLONgwl1fWGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
